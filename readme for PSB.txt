@@ -2,3 +2,4 @@
 git clone https://github.com/Microsoft/caffe.git
 2. 参考编译好的caffe，直接放到文件夹py-R-FCN-PSB下面：
 git clone https://github.com/whuhxb/Caffe-for-py-R-FCN-PSB.git
+修改名字Caffe-for-py-R-FCN-PSB为caffe即可。
